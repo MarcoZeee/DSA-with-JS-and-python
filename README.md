@@ -1,6 +1,6 @@
-# Learning JavaScript with Python
+# Curation of Data structure and algo questions with JavaScript with Python
 
-This repo serves as a place for JS learners who are familiar with Python, and for whom love to explore DSA. The content is inspired by Harvard CS50 curriculum. For educational purposes only.
+This repo serves as a place for JS learners who are familiar with Python, and for whom love to explore DSA. The content is inspired by CS50 curriculum. For educational purposes only.
 
 # <a href="https://cs50.harvard.edu/college/2021/fall/psets/1/mario/more/">mario(more comfortable)</a>
 - <a href="/mario(more comfortable)/mario.py">python solution</a>
