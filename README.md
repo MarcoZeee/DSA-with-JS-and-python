@@ -18,6 +18,14 @@ This repo serves as a place for JS learners who are familiar with Python, and fo
 - <a href="/readability/readability.py">python solution</a>
 - <a href="/readability/readability.js">JS solution</a>
 
+# <a href="https://cs50.harvard.edu/college/2021/fall/psets/3/">Runoff || Tideman</a>
+- <a href="/runoff & tideman/runoff.js">Runoff JS solution</a>
+- <a href="/runoff & tideman/tideman.js">Tideman JS solution</a>
+
+# <a href="https://cs50.harvard.edu/college/2021/fall/psets/6/dna/">DNA</a>
+- <a href="/DNA">python solution</a>
+- <a href="/DNA">JS solution</a>
+
 
 
 
